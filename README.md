@@ -29,11 +29,13 @@ To install generator-wp-underscores from npm, run:
 $ npm install -g generator-wp-underscores
 ```
 
-Finally, initiate the generator:
+Create a folder in /themes/ and initiate the generator:
 
 ```
 $ yo wp-underscores
 ```
+
+
 
 ### Getting To Know Yeoman
 
